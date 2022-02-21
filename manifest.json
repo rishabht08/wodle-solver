@@ -1,0 +1,16 @@
+{
+    "name" : "Wordle Solver",
+    "version" : "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon" : "logo-1.png"
+    },
+    "icons" : {
+      "64": "logo-1.png",
+      "128": "logo-1.png"
+    },
+    "permissions": ["storage","activeTab","declarativeContent"]
+ 
+
+}

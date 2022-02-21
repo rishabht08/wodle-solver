@@ -1,0 +1,12 @@
+#solve-button {
+    width: 160px;
+    height: 60px;
+    background-color: aqua;
+}
+p{
+    font-size: medium;
+    font-weight: 500;
+}
+body{
+    text-align: center;
+}
